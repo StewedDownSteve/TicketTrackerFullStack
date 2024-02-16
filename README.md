@@ -1,18 +1,16 @@
 # TicketTrackerFullStack
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+I took a demo ticket tracker thatt i had built with local storage(HTML, CSS, JS) and turned it into a full stack application. I rebuilt it as a CRUD app using MVC structure. It was a great journey of taking a protype and then fully fleshing it out and adding more styling!
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
 
-![photo](http://placecorgi.com/1200/650)
+
+![photo](https://github.com/StewedDownSteve/TicketTrackerFullStack/blob/main/TicketTrackFT_Img.png)
 
 ## How It's Made:
 
 **Tech used:** EJS, JavaScript, MongoDB, Express, Node, Bootstrap
-I took a demo ticket tracker taht i had built with local storage(HTML, CSS, JS) and turned it into a full stack application. I rebuilt it as a CRUD app using MVC structure. It was a great journey of taking a protype and then fully fleshing it out and adding more styling!
+
 
 ## Optimizations
-*(optional)*
-
 *Database Indexing:* Implemented proper indexing on the MongoDB database to optimize query performance. 
 
 *Responsive Design:* Ensured a responsive design that adapts seamlessly to various device sizes.
@@ -29,6 +27,6 @@ I took a demo ticket tracker taht i had built with local storage(HTML, CSS, JS) 
 *Scalability & Performance:* The project's evolution underscored the importance of considering scalability and performance from the start. The shift from local storage to a full database required a  focus on optimizing and ensuring efficient data retrieval.
 
 ## Examples:
-Take a look at these couple examples that I have in my own portfolio:
+Take a look at the orginal protype I built below:
 
 **Local Storage Ticket Tracker:** https://github.com/StewedDownSteve/Ticket_Tracker_App
