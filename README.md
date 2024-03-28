@@ -1,5 +1,5 @@
-# TicketTrackerFullStack
-I took a demo ticket tracker thatt i had built with local storage(HTML, CSS, JS) and turned it into a full stack application. I rebuilt it as a CRUD app using MVC structure. It was a great journey of taking a protype and then fully fleshing it out and adding more styling!
+# Super Cool Ticket Tracker (Fullstack)
+I took a demo ticket tracker that i had built with local storage(HTML, CSS, JS) and turned it into a full-stack application. I rebuilt it as a CRUD app using MVC structure. It was a great journey of taking a prototype and then fully fleshing it out and adding more styling!
 
 
 
@@ -26,12 +26,14 @@ I took a demo ticket tracker thatt i had built with local storage(HTML, CSS, JS)
 
 *Scalability & Performance:* The project's evolution underscored the importance of considering scalability and performance from the start. The shift from local storage to a full database required a  focus on optimizing and ensuring efficient data retrieval.
 
-## How To Imrpove:
+## How To Improve:
 My plan is to first add a working dashboard to show the lifecycle of the ticket. 
 
 Logging, User Authentication, Search and Filtering, Attachments, Automated Testing
 
 ## Examples:
-Take a look at the orginal protype I built below:
-
+Take a look at the original prototype I built below:
 **Local Storage Ticket Tracker:** https://github.com/StewedDownSteve/Ticket_Tracker_App
+
+Other Projects:
+**
